@@ -7,10 +7,13 @@
   <p>The Company also noted that Profit is 30% of the selling price</p>  
   
   
-  <h3>To achive this goals, this project needs to do:</h3>
-  <li>create a dataset with geo information</li>
-  <li>graphic yearly sales + average</li>
-  <li></li>
-  <li></li> ...
-  <li>the dashboard is available on <a href='LINK'>Tableau</a></li>
+  <h3>To achive this goals, this project must to contain:</h3>
+  <li>A dataset with geo information</li>
+  <li>First exploration searching for patterns</li>
+  <li>Graphic yearly sales + average</li>
+  <li>Map of Sales</li>
+  <li>Graphic the Sales by Category</li>
+  <li>Graphic the Quantity of Products solds per Order</li>
+  <li>Filter all information by the Year selected, State and Category of Product</li>
+  <li>the dashboard is available on <a href='https://public.tableau.com/views/Sales_Analytics_WizardMart/Dashboard?:language=pt-BR&:display_count=n&:origin=viz_share_link'>Tableau</a></li>
 </body>

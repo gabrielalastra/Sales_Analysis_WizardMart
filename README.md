@@ -9,14 +9,16 @@
   
   
   <h3>To achive this goals, this project must to contain:</h3>
-  <li>A dataset with geo information</li>
+  <li>A dataset withgeoreferenced</li>
   <li>First exploration searching for patterns</li>
-  <li>Graphic annual sales + average</li>
-  <li>Map of Sales</li>
-  <li>Graph the Sales by Category</li>
-  <li>Graph the Quantity of Products solds per Order</li>
+  <li>Graph the Annual sales + average</li>
+  <li>Dynamic Sales Map</li>
+  <li>View Sales by Category</li>
+  <li>View the Quantity of Products solds per Order</li>
   <li>All information filtered by the Year selected, State and Category of Product</li>
   
   <li>The dashboard is available on <a href='https://public.tableau.com/views/Sales_Analytics_WizardMart/Dashboard?:language=pt-BR&:display_count=n&:origin=viz_share_link'> <img align="center" alt="Gabb-tableau" height="45" width="40" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png"/> Tableau</a></li>
-
+  <div align='center'>
+  <img src="https://github.com/gabrielalastra/TABLEAU/blob/main/Sales_Analytics_WizardMart.png?raw=true"/>
+  </div>
 </body>
